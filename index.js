@@ -19,3 +19,7 @@ function destructivelyUpdateDriverWithKeyAndValue(driver, key, value){
 function deleteFromDriverByKey(driver, key){
   // let otherDriver = {...driver};
 }
+
+function destructivelyDeleteFromDriverByKey(driver, key){
+  
+}
